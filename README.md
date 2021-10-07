@@ -39,7 +39,7 @@ To run both of these projects sucessfully, you will need to have some software r
 ```bash
   mvn spring-boot:run
 ```
-- You can then visit the url returned at the end of the build inyour browser.
+- You can then visit the url returned at the end of the build in your browser.
 
 
 
