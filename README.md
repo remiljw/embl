@@ -10,7 +10,7 @@ To run both of these projects sucessfully, you will need to have some software r
   - Java 17 or later. Download [here](https://www.oracle.com/java/technologies/downloads/)
   - [Maven](https://maven.apache.org/install.html)
   - [PostgreSQL](https://www.postgresql.org/download/)
-#### Requiremnts for the Perl script:
+#### Requirements for the Perl script:
   - [Perl](https://www.perl.org/get.html)
   - [Ensembl API](http://www.ensembl.org/info/docs/api/)
   - There are different guides for setting up the Ensembl API based on your OS:
